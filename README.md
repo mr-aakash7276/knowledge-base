@@ -3,6 +3,8 @@ base](https://community.runabove.com/kb).
 
 # How to write a how-to guide?
 
+
+This will refer for great
 Simply fork the runabove/knowledge-base project on our GitHub page. Create a
 new page under [/en/_posts](en/_posts) and using markdown to write your how-to
 guide. Please refer to the metadata in existing guides so that you add adequate
